@@ -8,8 +8,8 @@
 
 [Click here](https://repl.it/@marcus0007/2021countdown#README.md) and click `Run` at the top of the page.
 
-### CLI
+### Shell
 
-1. Make sure [node.js](https://nodejs.com) is installed on your system.
+1. Make sure [node.js](https://nodejs.com) and [NPM](https://npmjs.com) is installed on your system. NPM should come with node.js.
 2. Clone and navigate to this directory in the command line.
-3. Run this app by doing `node index.js`.
+3. Run this app by doing `npm i&&node index.js`.
