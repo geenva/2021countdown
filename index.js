@@ -1,6 +1,5 @@
 const cd = require("countdown");
 let time = new Date(2021, 1, 1);
-const ascii = "";
 
 let c0 = setInterval(() => {
   let countdown = cd(new Date(2021, 1, 1)).toString();
