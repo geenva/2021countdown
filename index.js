@@ -5,13 +5,15 @@ const ascii = "";
 let c0 = setInterval(() => {
   let countdown = cd(new Date(2021, 1, 1)).toString();
   console.log(
-    "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTIME TILL NEW YEAR: " + countdown.slice(9)
+    "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎉🎉🎉🎉🎉🎉 TIME TILL NEW YEAR: " +
+      countdown.slice(9) +
+      " 🎉🎉🎉🎉🎉🎉"
   );
-  if (countdown.slice(9) == "2 days, 11 hours, 46 minutes and 50 seconds") {
+  if (countdown.slice(9) == "1 second") {
     clearInterval(c0);
     setTimeout(() => {
       console.log(
-        "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHAPPY NEW YEAR! 🎉"
+        "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHAPPY NEW YEAR! 🎉"
       );
       setTimeout(() => {
         console.log("It's now 2021! 🎉");
