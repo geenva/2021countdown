@@ -1,0 +1,25 @@
+{
+  "name": "2021countdown",
+  "version": "1.0.0",
+  "description": "Countdown to 2021!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geenva/2021countdown.git"
+  },
+  "keywords": [
+    "countdown2021"
+  ],
+  "author": "Marcus Y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geenva/2021countdown/issues"
+  },
+  "homepage": "https://github.com/geenva/2021countdown#readme",
+  "dependencies": {
+    "countdown": "^2.6.0"
+  }
+}
