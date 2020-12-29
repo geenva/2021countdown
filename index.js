@@ -5,7 +5,7 @@ const ascii = "";
 let c0 = setInterval(() => {
   let countdown = cd(new Date(2021, 1, 1)).toString();
   console.log(
-    "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎉🎉🎉🎉🎉🎉 TIME TILL NEW YEAR: " +
+    "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n🎉🎉🎉🎉🎉🎉 TIME TILL NEW YEAR: " +
       countdown.slice(9) +
       " 🎉🎉🎉🎉🎉🎉"
   );
