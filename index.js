@@ -8,6 +8,9 @@ let c0 = setInterval(() => {
       " 🎉🎉🎉🎉🎉🎉"
   );
   if (countdown.slice(9) == "1 second") {
+    setTimeout(() => {
+      process.exit;
+    }, 1800);
     clearInterval(c0);
     setTimeout(() => {
       console.log(
