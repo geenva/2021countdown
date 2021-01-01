@@ -2,6 +2,8 @@
 
 🎉 A simple countdown app that countdowns to the date 2021-1-1 (YYYY-M-D) in your local timezone, and pops a few celebratory messages when it's officially 2021. Idea from Kiki. Thanks!
 
+# This does not work. A fix will be implemented, possibly never.
+
 ### How to Use?
 
 ### [Repl.it](https://repl.it/@marcus0007/2021countdown#README.md)
